@@ -1,10 +1,10 @@
 home:
-  title: "Rico's cheatsheets"
+  title: "Kp's cheatsheets"
   tagline: |
-    Hey! I'm <a href='https://ricostacruz.com'>@rstacruz</a> and this is a modest collection of cheatsheets I've written.
+    This page is originally forked from <a href='https://ricostacruz.com'>@rstacruz</a> ,and I am trying to built my personally wiki or cheatsheets ... ...
 
 top_nav:
-  title: Devhints.io
+  title: zkpeace.com
   edit: Edit
   edit_on_github: Edit this page on GitHub
 
@@ -12,14 +12,14 @@ sheet:
   suffix: cheatsheet
 
 social_list:
-  default_description: "Ridiculous collection of web development cheatsheets"
+  default_description: "Personal Wiki"
   description: "The ultimate cheatsheet for TITLE."
   facebook_share: Share on Facebook
   twitter_share: Share on Twitter
 
 related_posts_callout:
   description: Over SIZE curated cheatsheets, by developers for developers.
-  link: Devhints home
+  link: Kp home
 
 related_posts_group:
   top: Top cheatsheets
@@ -29,7 +29,7 @@ related_posts_group:
 search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
-  prefix: devhints.io
+  prefix: Zkpeace
 
 comments_area:
   suffix: for this cheatsheet.
@@ -37,14 +37,14 @@ comments_area:
 
 not_found:
   title: Not found
-  description: Sorry, we don't have a cheatsheet for this yet. Try searching!
+  description: Sorry, we don't have nothing for this yet. Try searching!
   home: Back to home
 
 announcement:
-  id: 2017-10-26-twitter
+  id: 2020-04-23-blog
   title: |
-    New: We're on Twitter ♥️
+    Find me ❤️
   body: |
-    Follow [@devhints](https://twitter.com/devhints) on Twitter for daily "today I learned" snippets!
+    Welcome to my Home page, you can find almost everything about me in there.
 
-    [![](https://img.shields.io/twitter/follow/devhints.svg?style=social&label=@devhints)](https://twitter.com/devhints)
+    [zkpeace](https://zkpeace.com)
