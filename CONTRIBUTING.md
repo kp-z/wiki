@@ -6,7 +6,7 @@ This repository supports contribution using [gitpod](https://gitpod.io) which is
 To open-up the environment simple natigate on https://gitpod.io/#https://github.com/rstacruz/cheatsheets
 
 Or using a button:<br>
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rstacruz/cheatsheets)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Uzizkp/cheatsheets)
 
 ### Preview built website
 To preview the website you need to first build it then you can navigate to file that you are trying to contribute and preview directly.
