@@ -1,5 +1,8 @@
 ---
 title: Linux
+layout: 2017/sheet
+category: System
+tags: [Featured]
 ---
 
 ### Mounting a RAM drive
