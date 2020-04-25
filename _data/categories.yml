@@ -1,6 +1,8 @@
 enabled: true
 names:
   - Apps
+  - Navigation
+  - Markup
   - Git
   - HTML
   - Java & JVM

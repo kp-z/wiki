@@ -1,11 +1,11 @@
 home:
-  title: ""
+  title: "Kp's CheatSheets | Wiki | Repository"
   tagline: |
     This page is originally forked from <a href='https://ricostacruz.com'>@rstacruz</a> ,and I am trying to built my personally wiki or cheatsheets ... ... 
 
 top_nav:
   title: zkpeace.com
-  edit: Edit
+  edit: Github
   edit_on_github: Edit this page on GitHub
 
 sheet:
