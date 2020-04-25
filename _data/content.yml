@@ -1,7 +1,7 @@
 home:
-  title: "Kp's cheatsheets"
+  title: "Kp"
   tagline: |
-    This page is originally forked from <a href='https://ricostacruz.com'>@rstacruz</a> ,and I am trying to built my personally wiki or cheatsheets ... ...
+    This page is originally forked from <a href='https://ricostacruz.com'>@rstacruz</a> ,and I am trying to built my personally wiki or cheatsheets ... ... 
 
 top_nav:
   title: zkpeace.com
@@ -9,13 +9,14 @@ top_nav:
   edit_on_github: Edit this page on GitHub
 
 sheet:
-  suffix: cheatsheet
+  suffix: CheatSheets
 
 social_list:
   default_description: "Personal Wiki"
   description: "The ultimate cheatsheet for TITLE."
   facebook_share: Share on Facebook
   twitter_share: Share on Twitter
+  github: Star on GitHub
 
 related_posts_callout:
   description: Over SIZE curated cheatsheets, by developers for developers.
