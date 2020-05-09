@@ -7,6 +7,8 @@ updated: 2017-10-27
 tags: [Featured]
 ---
 
+{: toc #markdown-toc}
+
 ### Package management
 
 | Command                           | Description                                               |

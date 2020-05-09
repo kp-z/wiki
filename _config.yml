@@ -29,6 +29,7 @@ exclude:
 
 highlighter: false
 markdown: kramdown
+toc_levels: 1..2
 kramdown:
   input: GFM
   hard_wrap: false

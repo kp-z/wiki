@@ -9,7 +9,7 @@ endif
 {%if include.critical == 'sheet'
 %}<style id='critical-css'>{% include 2017/critical/sheet.css %}</style>{%
 endif %}
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <!-- allow disabling critical CSS optimization by passing ?nocrit=1 -->
 <script id='critical-css-disable'>if (~window.location.search.indexOf('nocrit')){;[].slice.call(document.querySelectorAll('#critical-css')).map(function(e){e.parentNode.removeChild(e)})}</script>
 
@@ -21,4 +21,5 @@ endif %}
 <noscript id='deferred-css-fallback'>
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Cousine'>
 <link rel='stylesheet' href='{{base}}/assets/2017/style.css?t={{ timestamp }}'>
+<!-- 1. Add latest jQuery and fancybox files -->
 </noscript>
