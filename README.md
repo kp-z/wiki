@@ -1,16 +1,14 @@
 # Kp's cheatsheets
 
-> Forks自前端大佬[Rico Sta. Cruz](https://github.com/rstacruz),[仓库](https://github.com/rstacruz/cheatsheets)
+我正在尝试使用这个项目构建我的个人wiki站点,记录一些不容易记住的知识,简单的说就是搜集或者创建各个领域的CheatSheets用来在必要的时候查阅或者说唤醒记忆,里面的内容包括但是不限于各种类库,软件指令,以后还会添加菜谱、
+健身知识、吉他谱等等我感兴趣的内容.
 
-<br>
+这个项目的原作者是[@rstacruz](https://github.com/rstacruz),我正在尝试添加一下特性:
 
-<p align='center'>
-<a href='https://devhints.io/'><img src='_docs/images/screenshot.png' width=600></a>
-<br>
-✨ <b><a href='https://zkpeace.com/cheatsheets'>cheatsheets</a></b> ✨
-</p>
-
-<br>
+[x]使用fancybox查看图片
+[]给页面添加一个风格统一的markdown目录
+[]优化pwa体验
+[]增加暗夜模式
 
 ---
 

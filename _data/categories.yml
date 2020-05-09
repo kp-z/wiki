@@ -1,13 +1,12 @@
 enabled: true
 names:
   - Apps
-  - Navigation
-  - Markup
-  - Git
+  # - Navigation
+  # - Git
   - HTML
-  - Java & JVM
+  # - Java & JVM
   - JavaScript
   - Markup
   - Python
   - Databases
-
+  - Life
