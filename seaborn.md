@@ -33,7 +33,7 @@ tags: [Featured]
 
     Also see Lists, NumPy & Pandas
 
-### Figure Aesthetics 图表美化
+### Figure Aesthetics
 
     ```py
     f, ax = plt.subplots(figsize=(5,6) # Create a figure and one subplot
