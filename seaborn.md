@@ -2,22 +2,11 @@
 title: seaborn
 category: Python
 layout: 2017/sheet
-weight: -1
 updated: 2020-5-9
 tags: [Featured]
 ---
 
 ### Statistical Data Visualization With Seaborn
-    The Python visualization library Seaborn is based on matplotlib and provides a high-level interface for drawing attractive statistical graphics
-
-        >>> import matplotlib.pyplot as plt
-        >>> import seaborn as sns
-
-    The basic steps to creating plots with Seaborn are:
-        1. Prepare some data    
-        2. Control figure aesthetics
-        3. Plot with Seaborn  
-        4. Further customize your plot
 
     ```py
         >>> import matplotlib.pyplot as plt
@@ -28,6 +17,16 @@ tags: [Featured]
         >>> g = (g.set_axis_labels("Tip","Total bill(USD)").set(xlim=(0,10),ylim=(0,100)))
         >>> plt.title("title")>>> plt.show(g)Step 4Step 2Step 1Step 5
     ```
+    The Python visualization library Seaborn is based on matplotlib and provides a high-level interface for drawing attractive statistical graphics
+
+    >>> import matplotlib.pyplot as plt
+    >>> import seaborn as sns
+
+    The basic steps to creating plots with Seaborn are:
+        1. Prepare some data    
+        2. Control figure aesthetics
+        3. Plot with Seaborn  
+        4. Further customize your plot
 
 
 ### Data
