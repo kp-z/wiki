@@ -3,7 +3,8 @@ title: Git
 category: Code management
 layout: 2017/sheet
 updated: 2020-05-20
-intro: 来自Gitlab的git cheatsheet
+intro: | 
+        来自Gitlab的git cheatsheet
 ---
 
 ## Git
