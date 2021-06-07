@@ -1,10 +1,9 @@
 home:
-  title: "速查表飞船 CHEATSHEETS"
+  title:
   tagline: |
-    🚀  Cheatsheet collections. Originally designed by <a href='https://ricostacruz.com'>@rstacruz</a> modified by <a href='https://zkpeace.com'>@kp</a> 
 
 top_nav:
-  title: 🔗 KP HOME PAGE 
+  title: 🐝 &nbsp 蜜蜂速查
   edit: 编辑本页
   edit_on_github:  github
 
@@ -32,7 +31,7 @@ related_posts_group:
 search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
-  prefix: Name
+  prefix: 速查
 
 comments_area:
   suffix: for this cheatsheet.
@@ -49,3 +48,4 @@ announcement:
     联系我 ❤️
   body: |
     如果有任何问题可以[EMAIL]('mailto:z.kp@outlook.com')或者前往我的主页[zkpeace](https://zkpeace.com) 
+    Originally designed by <a href='https://ricostacruz.com'>@rstacruz</a> modified by <a href='https://zkpeace.com'>@kp</a> 
