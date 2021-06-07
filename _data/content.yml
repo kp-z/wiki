@@ -1,11 +1,12 @@
 home:
-  title: "🚀 速查表飞船"
+  title: "速查表飞船 CHEATSHEETS"
   tagline: |
-    这是一个旨在提高编码效率的速查表合集网站，建议收藏。
+    🚀  Cheatsheet collections. Originally designed by <a href='https://ricostacruz.com'>@rstacruz</a> modified by <a href='https://zkpeace.com'>@kp</a> 
+
 top_nav:
-  title: 途中的树旗下
-  edit: Github
-  edit_on_github:  编辑本页
+  title: 🔗 KP HOME PAGE 
+  edit: 编辑本页
+  edit_on_github:  github
 
 sheet:
   suffix: CheatSheets
@@ -20,7 +21,7 @@ social_list:
   
 
 related_posts_callout:
-  description: 已收录 SIZE 张速查表, by developers for developers.
+  description: Collected SIZE Cheatsheet, by developers for developers.
   link: Home
 
 related_posts_group:
@@ -47,4 +48,4 @@ announcement:
   title: |
     联系我 ❤️
   body: |
-    在这个新技术，新语言成出不穷的时代，希望能少花点时间记语法，多花点时间记算法。如果你觉得这个想法不错，欢迎<a href='mailto:z.kp@outlook.com'>联系我们</a>，和我们一起建设本站。( 原创 by <a href='https://ricostacruz.com'>@rstacruz</a> 修改 by <a href='https://zkpeace.com'>@kp</a> )。如果有任何问题可以[EMAIL]('mailto:z.kp@outlook.com')或者前往我的主页[zkpeace](https://zkpeace.com)
+    如果有任何问题可以[EMAIL]('mailto:z.kp@outlook.com')或者前往我的主页[zkpeace](https://zkpeace.com) 
