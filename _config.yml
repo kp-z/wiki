@@ -27,7 +27,7 @@ exclude:
 
 # Markdown
 
-highlighter: false
+highlighter: true
 markdown: kramdown
 toc_levels: 1..2
 kramdown:
