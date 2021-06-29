@@ -32,5 +32,5 @@ f = np.eye(2)
 np.random.random((2,2))
 np.empty((3,2))
 ```
-
-
+##### Create an array of zeros
+    np.zeros((3,4))
