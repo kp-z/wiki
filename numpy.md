@@ -124,14 +124,14 @@ np.info(np.ndarray.dtype)
 ### Aggregate Functions
 
 {% highlight python linenos %}
->>> a.sum() # Array-wise sum
->>> a.min() # Array-wise minimum value
->>> b.max(axis=0) # Maximum value of an array row
->>> b.cumsum(axis=1) # Cumulative sum of the elements
->>> a.mean() # Mean
->>> b.median() # Median
->>> a.corrcoef() # Correlation coefficient
->>> np.std(b) # Standard deviation
+a.sum() # Array-wise sum
+a.min() # Array-wise minimum value
+b.max(axis=0) # Maximum value of an array row
+b.cumsum(axis=1) # Cumulative sum of the elements
+a.mean() # Mean
+b.median() # Median
+a.corrcoef() # Correlation coefficient
+np.std(b) # Standard deviation
 {% endhighlight %}
 
 ## Refercence
