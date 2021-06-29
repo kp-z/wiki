@@ -86,6 +86,8 @@ np.info(np.ndarray.dtype)
 
 ### Array Mathematics
 
+#### Arithmetic Operations
+
 ```py
 >>> g = a - b 
     array([[-0.5, 0. , 0. ],[-3. , -3. , -3. ]]) 
@@ -108,9 +110,14 @@ np.info(np.ndarray.dtype)
     array([[ 7., 7.], [ 7., 7.]])
 ```
 
-### Comparison
+#### Comparison
 
 ![](https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/numpy2.png)
+
+#### Aggregate Functions
+
+![](https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/%E6%88%AA%E5%B1%8F2021-06-29%2018.52.10.png)
+
 
 ## Refercence
 {: .-two-column}
