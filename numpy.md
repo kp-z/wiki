@@ -1,6 +1,6 @@
 ---
 title: Numpy
-category: Numpy
+category: Python
 layout: 2017/sheet
 tags: [Featured]
 updated: 2021-06-29
@@ -86,7 +86,7 @@ np.info(np.ndarray.dtype)
 
 ## Array Mathematics
 
-#### Arithmetic Operations
+### Arithmetic Operations
 
 ```py
 >>> g = a - b 
