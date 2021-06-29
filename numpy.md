@@ -112,3 +112,10 @@ np.info(np.ndarray.dtype)
 
 ![](https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/numpy2.png)
 
+## Refercence
+{: .-two-column}
+
+ * [DataCamp NumPy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+ * [A Little Bit of Everything](https://blog.finxter.com/wp-content/uploads/2019/10/grafik-2-768x592.png)
+{: .-also-see}
+
