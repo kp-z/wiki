@@ -84,7 +84,7 @@ np.unicode_ # Fixed-length unicode type
 np.info(np.ndarray.dtype)
 ```
 
-### Array Mathematics
+## Array Mathematics
 
 #### Arithmetic Operations
 
@@ -110,11 +110,11 @@ np.info(np.ndarray.dtype)
     array([[ 7., 7.], [ 7., 7.]])
 ```
 
-#### Comparison
+### Comparison
 
 ![](https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/numpy2.png)
 
-#### Aggregate Functions
+### Aggregate Functions
 
 ![](https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/%E6%88%AA%E5%B1%8F2021-06-29%2018.52.10.png)
 
