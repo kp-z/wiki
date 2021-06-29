@@ -14,9 +14,12 @@ intro: |
 ![](https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/numpy.png)
 
 ### Creating Arrays
+change
 
 a = np.array([1,2,3])
+
 b = np.array([(1.5,2,3), (4,5,6)], dtype = float)
+
 c = np.array([[(1.5,2,3), (4,5,6)], [(3,2,1), (4,5,6)]], dtype = float)
 
 #### Initial Placeholders
