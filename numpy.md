@@ -112,7 +112,14 @@ np.info(np.ndarray.dtype)
 
 ### Comparison
 
-![](https://img-1253324855.cos.ap-chengdu.myqcloud.com/picgo/numpy2.png)
+```python
+>>> a == b # Element-wise comparison
+    array([[False, True, True],
+            [False, False, False]], dtype=bool) 
+>>> a < 2 # lement-wise comparison
+    array([True, False, False], dtype=bool) 
+>>> np.array_equal(a, b) # Array-wise comparison
+```
 
 ### Aggregate Functions
 
@@ -124,5 +131,6 @@ np.info(np.ndarray.dtype)
 
  * [DataCamp NumPy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
  * [A Little Bit of Everything](https://blog.finxter.com/wp-content/uploads/2019/10/grafik-2-768x592.png)
+ * [numpy.org](https://numpy.org/install/)
 {: .-also-see}
 
