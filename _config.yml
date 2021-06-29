@@ -27,7 +27,7 @@ exclude:
 
 # Markdown
 
-highlighter: rouge
+highlighter: false
 markdown: kramdown
 toc_levels: 1..2
 kramdown:
@@ -35,7 +35,7 @@ kramdown:
   hard_wrap: false
   parse_block_html: true
   syntax_highlighter_opts:
-    disable: false
+    disable: true
 
 # Defaults
 
