@@ -34,9 +34,8 @@ kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
-  syntax_highlighter: coderay
-  # syntax_highlighter_opts:
-  #   disable:false
+  syntax_highlighter_opts:
+    disable: false
 
 # Defaults
 
