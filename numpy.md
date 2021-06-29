@@ -54,7 +54,7 @@ np.empty((3,2)) # Create an empty array
  np.savetxt("myarray.txt", a, delimiter=" ")
 ```
 
-### Data Type
+## Data Type
 
 ```python
 np.int64 # Signed 64-bit integer types
@@ -134,11 +134,130 @@ a.corrcoef() # Correlation coefficient
 np.std(b) # Standard deviation
 ```
 
+## Subsetting, Slicing, Indexing
+
+### Subsetting
+
+```py
+a[2] 
+b[1,2]
+```
+
+### Slicing
+
+```py
+>>> a[0:2] 
+    array([1, 2])
+>>> b[0:2,1] 
+    array([ 2., 5.])
+>>> b[:1] 
+    array([[1.5, 2., 3.]])
+>>> c[1,...] 
+    array([[[3., 2., 1.],
+            [4., 5., 6.]]])
+>>> a[ : :-1] 
+    array([3, 2, 1])
+```
+
+### Boolean Indexing
+
+```py
+>>> a[a<2] 
+    array([1])
+```
+
+### Fancy Indexing
+
+```py
+>>> b[[1, 0, 1, 0],[0, 1, 2, 0]] 
+    array([4.,2.,6.,1.5])
+>>> b[[1, 0, 1, 0]][:,[0,1,2,0]]
+    array([[4.,5.,6.,4.], 
+            [1.5,2.,3.,1.5], 
+            [4.,5.,6.,4.],
+            [1.5,2.,3.,1.5]])
+```
+
+## Array Manipulation
+ 
+### Copying Arrays
+
+```py
+>>> h = a.view() # Create a view of the array with the same data
+>>> np.copy(a) # Create a copy of the array
+>>> h = a.copy() # Create a deep copy of the array
+```
+
+### Sorting Arrays
+
+```py
+>>> a.sort() # Sort an array
+>>> c.sort(axis=0) # Sort the elements of an array's axis
+```
+
+### Transposing Array
+
+```py
+>>> i = np.transpose(b)
+>>> i.T
+```
+
+### Changing Array Shape
+
+```py
+>>> b.ravel() Flatten the array
+>>> g.reshape(3,-2)
+```
+
+### Adding/Removing Elements
+
+```py
+>>> h.resize((2,6))
+>>> np.append(h,g)
+>>> np.insert(a, 1, 5)
+>>> np.delete(a,[1])
+```
+
+### Combining Arrays
+
+```py
+>>> np.concatenate((a,d),axis=0) 
+    array([ 1, 2, 3, 10, 15, 20])
+>>> np.vstack((a,b)) 
+    array([[ 1. , 2. , 3. ], 
+            [ 1.5, 2. , 3. ],
+            [4. , 5. , 6. ]])
+>>> np.r_[e,f]
+>>> np.hstack((e,f)) 
+    array([[ 7., 7., 1., 0.],
+        [ 7., 7., 0., 1.]]) 
+>>> np.column_stack((a,d))
+    array([[ 1, 10], 
+        [ 2, 15],
+        [ 3, 20]])
+>>> np.c_[a,d]
+```
+
+### Splitting Arrays
+
+```py
+>>> np.hsplit(a,3) 
+    [array([1]),array([2]),array([3])]
+>>> h = a.view()
+>>> np.copy(a)
+>>> h = a.copy()
+>>> np.vsplit(c,2) 
+    [array([[[ 1.5, 2. , 1. ],
+            [ 4. , 5. , 6. ]]]), 
+    array([[[ 3., 2., 3.],
+            [ 4., 5., 6.]]])]
+```
+
 ## Refercence
+
 {: .-two-column}
 
  * [DataCamp NumPy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
  * [A Little Bit of Everything](https://blog.finxter.com/wp-content/uploads/2019/10/grafik-2-768x592.png)
  * [numpy.org](https://numpy.org/install/)
 {: .-also-see}
-
