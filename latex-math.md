@@ -6,11 +6,9 @@ prism_languages: [markdown]
 tags: [Featured]
 updated: 2021-07-01
 intro: | 
-        This is a latex math reference sheet which is geared toward writing scientific papers.$\alpha$ 
+        This is a latex math reference sheet which is geared toward writing scientific papers.
 ---
 
-$\alpha$ 
-$\alpha$ 
 
 ## Math mode 
 
@@ -29,9 +27,11 @@ $$
 
 ### Markdown Math Mode (TEX)
 
-Textstyle: `$... $` 
+Textstyle:  `$... $` 
 
-Displaystyle: `$$...$$` separat line, centered
+Displaystyle:  `$$...$$`  separat line, centered
+
+`$$\lambda := lim_ {x_1 \rightarrow \infty}\int_{x_0}^{x_1}\frac{f(\frac{t}{2})}{\sqrt[n]{t^2+\sin^2{t}}}$$`
 
 ## Important Symbols in Math
 
