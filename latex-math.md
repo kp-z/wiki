@@ -24,9 +24,6 @@ $$
 \lambda := lim_ {x_1 \rightarrow \infty}\int_{x_0}^{x_1}\frac{f(\frac{t}{2})}{\sqrt[n]{t^2+\sin^2{t}}}
 $$
 
-{% katex %}
-c = \pm\sqrt{a^2 + b^2}
-{% endkatex %}
 
 ### Markdown Math Mode (TEX)
 

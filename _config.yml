@@ -7,7 +7,6 @@ whitelist:
 plugins:
   - jekyll-redirect-from
   - jekyll-github-metadata
-  - jekyll-katex
 
 exclude:
   - Makefile
