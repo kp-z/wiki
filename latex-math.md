@@ -32,7 +32,7 @@ Displaystyle: `$$...$$` separat line, centered
 ### Greek and Hebrew letters
 
 
-| --- | --- | --- | ---| --- | --- | --- | ---| 
+| --- | --- | --- |
 | $\alpha$ | `\alpha` | $\kappa$ | `\kappa` | $\beta$ | `\beta` | $\lambda$ | `\lambda` |
 | $\psi$ | `\psi` | $\rho$ | `\rho` | $\mu$ | `\mu` | $\nu$ | `\nu` |
 | $\delta$ | `\delta` | $\epsilon$ | `\epsilon` | $\eta$ | `\eta` | $\gamma$ | `\gamma` |
