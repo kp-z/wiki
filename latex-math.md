@@ -2,6 +2,7 @@
 title: Latex Math
 category: Markup
 layout: 2017/sheet
+prism_languages: [markdown]
 tags: [Featured]
 updated: 2021-07-01
 intro: | 
