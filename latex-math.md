@@ -21,6 +21,7 @@ Equation: `\begin{equation} . . . \end{equation}\label{name }`
 
 $$\lambda := lim_ {x_1 \rightarrow \infty}\int_{x_0}^{x_1}\frac{f(\frac{t}{2})}{\sqrt[n]{t^2+\sin^2{t}}}$$
 
+
 #### Markdown Math Mode (TEX)
 
 Textstyle: `$... $` 
@@ -33,9 +34,10 @@ Displaystyle: `$$...$$` separat line, centered
 
 
 | --- | --- | --- |
-| $\alpha$ | `\alpha` | $\kappa$ | `\kappa` | $\beta$ | `\beta` | $\lambda$ | `\lambda` |
-| $\psi$ | `\psi` | $\rho$ | `\rho` | $\mu$ | `\mu` | $\nu$ | `\nu` |
-| $\delta$ | `\delta` | $\epsilon$ | `\epsilon` | $\eta$ | `\eta` | $\gamma$ | `\gamma` |
+| $\alpha$ | `\alpha` | $\kappa$ | `\kappa` | $\beta$ | `\beta` |
+| $\lambda$ | `\lambda` | $\psi$ | `\psi` | $\rho$ | `\rho` |
+| $\mu$ | `\mu` | $\nu$ | `\nu` |$\delta$ | `\delta` |
+| $\epsilon$ | `\epsilon` | $\eta$ | `\eta` | $\gamma$ | `\gamma` |
 | $\iota$ | `\iota` | $o$ | `o` | $\omega$ | `\omega` | $\phi$ | `\phi` |
 | $\pi$ | `\pi` | $\sigma$ | `\sigma` | $\tau$ | `\tau` | $\theta$ | `\theta` |
 | $\upsilon$ | `\upsilon` | $\xi$ | `\xi` | $\zeta$ | `\zeta` | $\varepsilon$ | `\varepsilon` |
