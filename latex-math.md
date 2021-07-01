@@ -18,7 +18,7 @@ Textstyle: `\(x^2 + 4\)`  $\leadsto x^2 + 4$ as part of the text.
 
 Displaystyle: `\[ x^2 + 4 \]` $\leadsto$  separat line, centered
 
-Equation: `\begin{equation} . . . \end{equation}\label{name }` 
+Equation: `\begin{equation} . . . \end{equation}\label{name }`
 
 $$\lambda := lim_ {x_1 \rightarrow \infty}\int_{x_0}^{x_1}\frac{f(\frac{t}{2})}{\sqrt[n]{t^2+\sin^2{t}}}$$
 
@@ -49,7 +49,7 @@ Displaystyle: `$$...$$` separat line, centered
 | $\Omega$ | `\Omega` | $\Phi$ | `\Phi` | $\Pi$ | `\Pi` |
 | $\Psi$ | `\Psi` | $\Sigma$ | `\Sigma` | $\Theta$ | `\Theta` |
 | $\Upsilon$ | `\Upsilon` | $\Xi$ | `\Xi` | $\aleph$ | `\aleph` |
-| $\beth$ | `\beth` | $\daleth$ | `\daleth` | $\gimel$ | `\gimel`
+<!-- | $\beth$ | `\beth` | $\daleth$ | `\daleth` | $\gimel$ | `\gimel` -->
 
 
 ## Refercence
