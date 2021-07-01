@@ -49,7 +49,7 @@ Displaystyle: `$$...$$` separat line, centered
 | $\Omega$ | `\Omega` | $\Phi$ | `\Phi` | $\Pi$ | `\Pi` |
 | $\Psi$ | `\Psi` | $\Sigma$ | `\Sigma` | $\Theta$ | `\Theta` |
 | $\Upsilon$ | `\Upsilon` | $\Xi$ | `\Xi` | $\aleph$ | `\aleph` |
-<!-- | $\beth$ | `\beth` | $\daleth$ | `\daleth` | $\gimel$ | `\gimel` -->
+| $\beth$ | `\beth` | $\daleth$ | `\daleth` | $\gimel$ | `\gimel`
 
 
 ## Refercence
