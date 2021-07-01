@@ -6,7 +6,7 @@ prism_languages: [markdown]
 tags: [Featured]
 updated: 2021-07-01
 intro: | 
-        This is a latex math reference sheet which is geared toward writing scientific papers. 
+        This is a latex math reference sheet which is geared toward writing scientific papers.$\alpha$ 
 ---
 
 $\alpha$ 
