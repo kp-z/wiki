@@ -1,6 +1,21 @@
 {% include meta.html %}
 {% include polyfills.html %}
 
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+
+
 <!-- critical css -->
 {% if include.critical == 'home'
 %}<style id='critical-css'>{% include 2017/critical/home.css %}</style>{%
@@ -10,16 +25,6 @@ endif
 %}<style id='critical-css'>{% include 2017/critical/sheet.css %}</style>{%
 endif %}
 
-<script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-                extensions: ["tex2jax.js"],
-                jax: ["input/TeX","output/CommontHTML"],
-                tex2jax: {
-                inlineMath: [['$','$']]
-                }
-        });
-    </script>
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML" ></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 <!-- allow disabling critical CSS optimization by passing ?nocrit=1 -->
 <script id='critical-css-disable'>if (~window.location.search.indexOf('nocrit')){;[].slice.call(document.querySelectorAll('#critical-css')).map(function(e){e.parentNode.removeChild(e)})}</script>
@@ -34,14 +39,6 @@ endif %}
 <link rel='stylesheet' href='{{base}}/assets/2017/style.css?t={{ timestamp }}'>
 <!-- 1. Add latest jQuery and fancybox files -->
 </noscript>
-<script>
-        var _hmt = _hmt || [];
-        (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?11d5557c880964f2b0559172acee5edb";
-        var s = document.getElementsByTagName("script")[0]; 
-        s.parentNode.insertBefore(hm, s);
-        })();
-</script>
+
 
 
