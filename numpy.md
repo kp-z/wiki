@@ -3,6 +3,7 @@ title: Numpy
 category: Python
 layout: 2017/sheet
 tags: [Featured]
+prism_languages: [markdown]
 updated: 2021-06-29
 intro: | 
         The NumPy library is the core library for scientific computing in Python. 
