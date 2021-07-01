@@ -37,7 +37,7 @@ Displaystyle: `$$...$$` separat line, centered
 | $\alpha$ | `\alpha` | $\kappa$ | `\kappa` | $\beta$ | `\beta` |
 | $\lambda$ | `\lambda` | $\psi$ | `\psi` | $\rho$ | `\rho` |
 | $\mu$ | `\mu` | $\nu$ | `\nu` |$\delta$ | `\delta` |
-| $\epsilon$ | `\epsilon` | $\eta$ | `\eta` | $\gamma$ | `\gamma` |
+<!-- | $\epsilon$ | `\epsilon` | $\eta$ | `\eta` | $\gamma$ | `\gamma` |
 | $\iota$ | `\iota` | $o$ | `o` | $\omega$ | `\omega` |
 | $\phi$ | `\phi` | $\pi$ | `\pi` | $\sigma$ | `\sigma` |
 | $\tau$ | `\tau` | $\theta$ | `\theta` | $\upsilon$ | `\upsilon` |
@@ -48,7 +48,7 @@ Displaystyle: `$$...$$` separat line, centered
 | $\Omega$ | `\Omega` | $\Phi$ | `\Phi` | $\Pi$ | `\Pi` |
 | $\Psi$ | `\Psi` | $\Sigma$ | `\Sigma` | $\Theta$ | `\Theta` |
 | $\Upsilon$ | `\Upsilon` | $\Xi$ | `\Xi` | $\aleph$ | `\aleph` |
-| $\beth$ | `\beth` | $\daleth$ | `\daleth` | $\gimel$ | `\gimel`
+| $\beth$ | `\beth` | $\daleth$ | `\daleth` | $\gimel$ | `\gimel` -->
 
 
 ## Refercence
