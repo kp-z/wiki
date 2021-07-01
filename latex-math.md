@@ -9,6 +9,8 @@ intro: |
         This is a latex math reference sheet which is geared toward writing scientific papers. 
 ---
 
+$\alpha$ 
+$\alpha$ 
 
 ## Math mode 
 
