@@ -2,6 +2,7 @@
 title: Latex Math
 category: Markup
 layout: 2017/sheet
+prism_languages: [markdown]
 tags: [Featured]
 updated: 2021-07-01
 intro: | 
@@ -18,6 +19,11 @@ Textstyle: `\(x^2 + 4\)`  $\leadsto x^2 + 4$ as part of the text.
 Displaystyle: `\[ x^2 + 4 \]` $\leadsto$  separat line, centered
 
 Equation: `\begin{equation} . . . \end{equation}\label{name }`
+
+$$
+\lambda := lim_ {x_1 \rightarrow \infty}\int_{x_0}^{x_1}\frac{f(\frac{t}{2})}{\sqrt[n]{t^2+\sin^2{t}}}
+$$
+
 
 ### Markdown Math Mode (TEX)
 
