@@ -38,14 +38,17 @@ Displaystyle: `$$...$$` separat line, centered
 | $\lambda$ | `\lambda` | $\psi$ | `\psi` | $\rho$ | `\rho` |
 | $\mu$ | `\mu` | $\nu$ | `\nu` |$\delta$ | `\delta` |
 | $\epsilon$ | `\epsilon` | $\eta$ | `\eta` | $\gamma$ | `\gamma` |
-| $\iota$ | `\iota` | $o$ | `o` | $\omega$ | `\omega` | $\phi$ | `\phi` |
-| $\pi$ | `\pi` | $\sigma$ | `\sigma` | $\tau$ | `\tau` | $\theta$ | `\theta` |
-| $\upsilon$ | `\upsilon` | $\xi$ | `\xi` | $\zeta$ | `\zeta` | $\varepsilon$ | `\varepsilon` |
-| $\varkappa$ | `\varkappa` | $\varphi$ | `\varphi` | $\varpi$ | `\varpi` | $\varrho$ | `\varrho` |
-| $\varsigma$ | `\varsigma` | $\vartheta$ | `\vartheta` | $\Delta$ | `\Delta` | $\Gamma$ | `\Gamma` |
-| $\Lambda$ | `\Lambda` | $\Omega$ | `\Omega` | $\Phi$ | `\Phi` | $\Pi$ | `\Pi` |
-| $\Psi$ | `\Psi` | $\Sigma$ | `\Sigma` | $\Theta$ | `\Theta` | $\Upsilon$ | `\Upsilon` |
-| $\Xi$ | `\Xi` | $\aleph$ | `\aleph` | $\beth$ | `\beth` | $\daleth$ | `\daleth` |
+| $\iota$ | `\iota` | $o$ | `o` | $\omega$ | `\omega` |
+| $\phi$ | `\phi` | $\pi$ | `\pi` | $\sigma$ | `\sigma` |
+| $\tau$ | `\tau` | $\theta$ | `\theta` | $\upsilon$ | `\upsilon` |
+| $\xi$ | `\xi` | $\zeta$ | `\zeta` | $\varepsilon$ | `\varepsilon` |
+| $\varkappa$ | `\varkappa` | $\varphi$ | `\varphi` | $\varpi$ | `\varpi` |
+| $\varrho$ | `\varrho` | $\varsigma$ | `\varsigma` | $\vartheta$ | `\vartheta` |
+| $\Delta$ | `\Delta` | $\Gamma$ | `\Gamma` | $\Lambda$ | `\Lambda` |
+| $\Omega$ | `\Omega` | $\Phi$ | `\Phi` | $\Pi$ | `\Pi` |
+| $\Psi$ | `\Psi` | $\Sigma$ | `\Sigma` | $\Theta$ | `\Theta` |
+| $\Upsilon$ | `\Upsilon` | $\Xi$ | `\Xi` | $\aleph$ | `\aleph` |
+| $\beth$ | `\beth` | $\daleth$ | `\daleth` | $\gimel$ | `\gimel`
 
 
 ## Refercence
