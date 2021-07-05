@@ -1,11 +1,9 @@
 ---
-title: recipes-chinese
+title: 快手菜合集
 category: Life
 layout: 2017/sheet
-tags: [Featured]
 weight: -10
 intro: |
- 中国菜
 ---
 
 ## 开始
