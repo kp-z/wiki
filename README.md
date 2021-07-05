@@ -6,9 +6,6 @@
 这个项目的原作者是[@rstacruz](https://github.com/rstacruz),我正在尝试添加一下特性:
 
 [x]使用fancybox查看图片
-[]给页面添加一个风格统一的markdown目录
-[]优化pwa体验
-[]增加暗夜模式
 
 ---
 
