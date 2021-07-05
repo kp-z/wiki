@@ -227,14 +227,24 @@ GEM
     nokogiri (1.11.7)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
+<<<<<<< HEAD
     octokit (4.21.0)
+=======
+    octokit (4.18.0)
+>>>>>>> f90ddaa481da4b6bd5045d3c5414a8bac305afa5
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+<<<<<<< HEAD
     public_suffix (4.0.6)
     racc (1.5.2)
     rb-fsevent (0.11.0)
+=======
+    public_suffix (3.1.1)
+    racc (1.5.2)
+    rb-fsevent (0.10.4)
+>>>>>>> f90ddaa481da4b6bd5045d3c5414a8bac305afa5
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
